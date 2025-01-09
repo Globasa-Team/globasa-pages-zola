@@ -1,9 +1,6 @@
 ---
 title: 'Contributor Guide'
-visible: false
-media_order: 'page-description.png,site-description.png'
-metadata:
-    description: 'Info for contributors and editing tips.'
+description: 'Info for contributors and editing tips.'
 ---
 
 # Proofreader Guide

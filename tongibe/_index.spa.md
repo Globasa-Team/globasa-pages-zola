@@ -1,6 +1,5 @@
 ---
 title: Contribuir
-published: true
 ---
 
 # Cómo contribuir

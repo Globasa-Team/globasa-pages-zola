@@ -1,7 +1,5 @@
 ---
 title: Contribute
-published: true
-visible: true
 ---
 
 # Contribute
